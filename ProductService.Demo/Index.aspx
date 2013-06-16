@@ -12,7 +12,7 @@
 
     <p>First Changes by Team2</p>
    <p>First change</p>
-   Team2
+   TeamGUI
     </div>
     </form>
 </body>
